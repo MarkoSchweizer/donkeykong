@@ -1,0 +1,5 @@
+Canopy Crew herunterladen
+
+canopy-crew-characters.zip herunterladen und entpacken. Danach Canopy-Crew.html in einem eigenen Browserfenster oeffnen. Alle Grafiken und Skripte sind eingebettet.
+
+Bruno: A/D, W, S, E. Pip: Pfeiltasten und Enter. Bildschirmtasten unterstuetzen Touch.
